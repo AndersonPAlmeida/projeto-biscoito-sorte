@@ -197,4 +197,7 @@ h1 {
    .screen1 img, .screen2 img {
       max-width: 11rem;
    }
+   .screen2 button {
+      width: 100%;
+   }
 }
